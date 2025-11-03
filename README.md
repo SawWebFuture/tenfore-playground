@@ -2,6 +2,25 @@
 
 TenFore Playground is a fun sandbox to explore **Jetpack Compose** patterns, navigation, and data flows—starting simple (fake login + product list) and expanding into real-world app architecture.
 
+Splash Screen:
+
+<img width="200" height="823" alt="Screenshot 2025-11-03 at 12 15 59 PM" src="https://github.com/user-attachments/assets/97139272-cfe2-4b6e-8689-de53e32a4039" />
+
+Login Screen:
+
+<img width="200" height="833" alt="Screenshot 2025-11-03 at 12 16 07 PM" src="https://github.com/user-attachments/assets/adfcf1a4-54be-48e0-b8c6-25ee1c62d355" />
+
+Home Screens:
+
+<img width="200" height="829" alt="Screenshot 2025-11-03 at 12 16 16 PM" src="https://github.com/user-attachments/assets/8167479e-983b-449b-81b9-42bc04dc4c97" />
+<img width="200" height="838" alt="Screenshot 2025-11-03 at 12 16 23 PM" src="https://github.com/user-attachments/assets/a9d61320-986c-4dac-9642-b708f6c6392e" />
+<img width="200" height="830" alt="Screenshot 2025-11-03 at 12 16 30 PM" src="https://github.com/user-attachments/assets/a2f7ba96-6803-447a-8ef1-454b7f1355d7" />
+
+Logout Screen:
+
+<img width="200" height="827" alt="Screenshot 2025-11-03 at 12 16 37 PM" src="https://github.com/user-attachments/assets/529c09c5-7648-41de-aba9-8d49d4a21644" />
+
+
 ---
 
 ## 🚀 Features (Current)
